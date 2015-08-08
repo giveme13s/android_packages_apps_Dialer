@@ -141,4 +141,7 @@
     <dimen name="preference_padding_bottom">16dp</dimen>
     <dimen name="preference_side_margin">16dp</dimen>
     <dimen name="preference_summary_line_spacing_extra">4dp</dimen>
+
+    <!-- Size of the pie chart in the call stats detail activity -->
+    <dimen name="call_stats_details_chart_size">140dip</dimen>
 </resources>
